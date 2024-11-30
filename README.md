@@ -1,2 +1,2 @@
-# cli
+# cli-tools
 CLI Tools
